@@ -1,7 +1,7 @@
 seanchríonna |d|
 ======
 
-**Seanchríonna** (IPA: [ˈʃanˠˌxɾʲiːɔn̪ˠa], stylized as *seanchríonna*) is a random quote
+**Seanchríonna** (IPA: [ˈʃanˠˌxɾʲiːn̪ˠa], stylized as *seanchríonna*) is a random quote
 fetching console utility. Written in D.
 
 |screenshot|
