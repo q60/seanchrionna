@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"v"
+	],
+	"copyright": "Copyright © 2021, v",
+	"dependencies": {
+		"dxml": "~>0.4.3"
+	},
+	"description": "Random quote fetching console utility.",
+	"license": "MIT",
+	"name": "seanchrionna"
+}
