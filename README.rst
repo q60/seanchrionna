@@ -1,7 +1,7 @@
 seanchríonna |d|
-======
+============
 
-**Seanchríonna** (IPA: [ˈʃanˠˌxɾʲiːn̪ˠa], stylized as *seanchríonna*) is a random quote
+**Seanchríonna** (IPA: [ˈʃanˠˌxɾʲiːn̪ˠa], stylized as *᚛ᚄᚓᚅᚑᚕᚏᚓᚅᚈᚐ᚜*) is a random quote
 fetching console utility. Written in D.
 
 |screenshot|
@@ -14,7 +14,7 @@ Installing
 Building and installing manually
 --------------------------------
 
-You need *GNU make*, *DMD* and *DUB* to build **seanchríonna**.
+You need *GNU make*, *DMD* and *DUB* to build **᚛ᚄᚓᚅᚑᚕᚏᚓᚅᚈᚐ᚜**.
 
 .. code-block:: sh
 
